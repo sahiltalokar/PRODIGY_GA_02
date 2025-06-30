@@ -17,3 +17,6 @@ By learning patterns from millions of image–text pairs, these models generate 
 - **torch** – deep learning backend (PyTorch)
 
 Prompt Used: "A mythical dragon flying around a big castle"
+
+In case you're not able to view the output file, try this link:
+https://nbviewer.org/github/sahiltalokar/PRODIGY_GA_02/blob/main/ImageGenerationOutput.ipynb
